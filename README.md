@@ -31,7 +31,7 @@ It focuses on basic game logic, user input handling, and object-oriented program
 
 ## Output Screenshot
 
-![Turtle Race Game Screenshot](screenshot.png)
+![Turtle Race Game Screenshot](screenshot-output.jpg)
 
 ## Getting Started
 
